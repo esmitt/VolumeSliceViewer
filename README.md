@@ -1,7 +1,8 @@
 Volume Slicer Viewer
 ===================
+![image](screenshot.png)
 
-This simple code is performed in Jupyter to show the different anatomical planes of a DICOMDIR volume.
+This simple code is written in Jupyter to show the different anatomical planes of a DICOMDIR volume.
 It is necessary to install `ipykernel`, `pydicom` and `ipywidgets` (using pip or conda)
 
 Now, sometimes it is necessary to enable the notebook extension for widgets (jupyter in my case, ):
